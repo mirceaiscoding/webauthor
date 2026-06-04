@@ -4,6 +4,7 @@
     <title>Copyright</title>
     <shortdesc>Legal-related information.test</shortdesc>
     <body>
+        <p> B</p>
         <p>Most of the information was taken from <xref href="http://www.wikipedia.com"
                 format="html" scope="external">Wikipedia</xref>, the free encyclopedia.</p>
     </body>
